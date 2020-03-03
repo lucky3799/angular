@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "learning the angular course and this topic is about  git and node ",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucky3799/angular.git"
+  },
+  "author": "Laxmi Kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucky3799/angular/issues"
+  },
+  "homepage": "https://github.com/lucky3799/angular#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
